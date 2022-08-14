@@ -1,20 +1,14 @@
 //public class Main {
 //
 //    public static void main(String[] args) {
-//        Product book = new Book(
-//                001,
-//                "My book",
-//                200,
-//                "Spielberg",
-//                100,
-//                1999
-//        );
-//        book.use();
+//        Repository repo = new Repository();
 //
-//        book.setPrice(12_000);
-//        book.isTooExpensive();
+//        try {
+//            repo.removeProductsById(301);
+//        } catch (NegativeArraySizeException e) {
 //
-//        System.out.println(book.isTooExpensive());
+//        }
+//
 //    }
 //
 //}

@@ -14,7 +14,7 @@ public class Product {
         return id;
     }
 
-//    public void setId(int id) {
+    //    public void setId(int id) {
 //        this.id = id;
 //    }
 //
@@ -33,7 +33,6 @@ public class Product {
 //    public void setPrice(int price) {
 //        this.price = price;
 //    }
-
 
 
 }
